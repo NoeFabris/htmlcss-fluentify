@@ -39,7 +39,6 @@ nav .logo{
     color: white;
 }
 .bottoni{
-
     line-height: 80px;
     float: right;
     color: white;
@@ -144,9 +143,44 @@ ul button{
     padding: 25px 0;
     color: grey;
 }
-
-
-
+.menu-finale h1, .menu-finale div, .selectors p{
+    display: inline-block;
+}
+.selectors{
+    float: right;
+}
+.menu-finale{
+    padding: 80px 0;
+}
+.selectors button, .selectors p, .selectors select{
+    margin-left: 25px;
+    color: grey;
+}
+.selectors button{
+    padding: 20px 10px;
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+}
+.selectors select{
+    text-decoration: none;
+    text-align: left;
+    width: 100px;
+    border: 0px;
+}
+.help{
+    /* position: fixed; */
+    padding: 10px 3px;
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+    width: 80px;
+}
+.helpbox{
+    position: fixed;
+    bottom: 0;
+    left: 1900px;
+}
 
 
 
