@@ -127,8 +127,23 @@ ul button{
     color: grey;
     padding: 25px 0;
 }
-
-
+.row50{
+    width: 45%;
+    float: left;
+}
+.spaziatura{
+    padding-right: 10%;
+}
+.row50{
+    margin: 35px 0;
+}
+.row50 h1{
+    font-size: 3rem;
+}
+.row50 p{
+    padding: 25px 0;
+    color: grey;
+}
 
 
 
